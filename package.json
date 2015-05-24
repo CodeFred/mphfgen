@@ -1,0 +1,15 @@
+{
+  "name": "mphfgen",
+  "description": "A minimal perfect hash function generator",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/CodeFred/mphfgen"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "cli": "^0.6.6",
+    "underscore": "^1.8.3"
+  },
+  "main": "lib/mphfgen.js"
+}
